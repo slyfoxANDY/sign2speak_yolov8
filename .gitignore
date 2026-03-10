@@ -1,0 +1,35 @@
+# Data & outputs (too large for git)
+data/images/
+data/clips/
+data/labels/
+outputs/
+models/classifier.joblib
+models/classifier.pkl
+models/hand_landmarker.task
+models/yolov8n_pose.pt
+yolov8n-pose.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
